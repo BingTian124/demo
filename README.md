@@ -5,4 +5,8 @@ add some color
 
 add flavor
 
+
+add smell
+
 add food
+
